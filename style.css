@@ -10,7 +10,7 @@ h1 {
 }
 
 .sk {
-    color: darkgoldenrod;
+    color: yellowgreen;
 }
 
 .dev {
@@ -50,4 +50,19 @@ h1 {
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exp-devlopment {
+    width: 40%;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.exp-sec {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
