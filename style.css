@@ -42,6 +42,12 @@ h1 {
     background-repeat: no-repeat;
 }
 
-section {
+.sec-container {
     display: flex;
+}
+
+.top2-sec {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
