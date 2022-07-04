@@ -66,3 +66,16 @@ h1 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+.border1-color {
+    border-left: 9px solid orchid;
+}
+
+.border-color {
+    border-left: 9px solid blueviolet;
+}
+
+footer p {
+    text-align: center;
+
+}
